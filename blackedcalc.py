@@ -2,7 +2,7 @@ import math
 import tkinter as tk
 
 root = tk.Tk()
-root.title("Black Hole gravity node calculator")
+root.title("singularity gravity generator")
 root.geometry("600x500")
 root.grid_columnconfigure(0, weight=1)
 root.grid_columnconfigure(1, weight=1)
